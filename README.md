@@ -1,21 +1,42 @@
-# 💫 About Me:
-👋 Hi, I'm Firoz!<br>💻 Web Developer | Learner | Tech Enthusiast<br>🌟 Passionate about creating real-life problem-solving apps<br>🛠️ Skills: HTML, CSS, JavaScript, ReactJS, WordPress<br>🎯 Currently learning and building with ReactJS 🚀<br>📚 Lover of books, coding, and exploring new technologies<br>🌍 Based in Delhi, India 🇮🇳
+# Hi, I'm Firoz 👋
 
+Frontend Developer based in Delhi, building fast and thoughtful web experiences with **Next.js**, **React**, and **Tailwind CSS**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarcastic.firoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firoz-ansari-web) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/HeyFiroz) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeFiroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeFiroz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFiroz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeFiroz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I have 2.5+ years of production experience across e-commerce, business, and content verticals — owning projects end-to-end from Figma handoff to deployment. Currently looking for a frontend role at a product company where the engineering bar is higher and the work compounds.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeFiroz&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Frontend:** React.js · Next.js · Tailwind CSS · JavaScript (ES6+) · GSAP · Zustand  
+**Backend & DB:** Node.js · Express.js · REST APIs · MongoDB  
+**CMS & Tools:** WordPress · ACF · PHP · Figma · Penpot  
+**DevOps:** Git · GitHub · Vercel
+
+---
+
+## 🚀 Projects
+
+### [Dear Eila](https://dear-eila.vercel.app) — [GitHub](https://github.com/CodeFiroz/dear-eila)
+
+> *Inspired by the film "The Lunchbox" — where letters between strangers create an unexpected connection.*
+
+A safe, anonymous space for the letters that never found their way. To someone you lost, a friend you drifted from, a love you never confessed, or simply words you couldn't say out loud.
+
+No algorithms. No noise. No judgment. Just genuine human connection through written thoughts — shared freely, read with kindness.
+
+**Built with:** Next.js · Tailwind CSS · TypeScript
+
+---
+
+## 📌 Currently
+
+- 🏢 Frontend Developer at **Rapid Digital Growth**, Delhi
+- 🎓 Pursuing BA from **IGNOU** (open learning)
+- 🔍 Open to frontend roles in **Delhi NCR**
+
+---
+
+## 📫 Reach me
+
+- ✉️ khanfiroz4045@gmail.com
