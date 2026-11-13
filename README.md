@@ -1,7 +1,27 @@
-# Hey, I'm Firoz 👋
+<pre align="center">
+ _____   ___   ____     ___    _____
+|  ___| |_ _| |  _ \   / _ \  |__  /
+| |_     | |  | |_) | | | | |   / / 
+|  _|     | |  |  _ <  | |_| |  / /_ 
+|_|     |___| |_| \_\  \___/  /____|
+</pre>
 
-Full Stack Developer building web apps, SaaS products, and developer tools.
-Currently at Rapid Digital Growth. Based in Delhi, India.
+<p align="center"><b>Full Stack Developer · Product Builder</b></p>
+
+```bash
+$ whoami
+firoz
+
+$ cat about.txt
+Building web apps, SaaS products, and developer tools.
+Frontend @ Rapid Digital Growth · Delhi, India
+
+$ ls projects/
+upgradeaxis/   jsoncraft/   chatpilot/
+
+$ echo $STACK
+Next.js · React · TypeScript · Node.js · MongoDB · Redis · Tailwind
+```
 
 ## Things I've built
 
@@ -15,4 +35,4 @@ Next.js · React · TypeScript · Node.js · MongoDB · Redis · Tailwind
 
 ## Say hi
 
-[Portfolio](https://firozzz.in) · [LinkedIn](https://www.linkedin.com/in/firozzz/) · [Email](mailto:khanfiroz4045@gmail.com)
+[firozzz.in](https://firozzz.in) · [LinkedIn/in/firozzz](https://www.linkedin.com/in/firozzz/) · [hello@firozzz.in](mailto:hello@firozzz.in)
