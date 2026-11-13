@@ -7,21 +7,7 @@
 </pre>
 
 <p align="center"><b>Full Stack Developer · Product Builder</b></p>
-
-```bash
-$ whoami
-firoz
-
-$ cat about.txt
-Building web apps, SaaS products, and developer tools.
-Frontend @ Rapid Digital Growth · Delhi, India
-
-$ ls projects/
-upgradeaxis/   jsoncraft/   chatpilot/
-
-$ echo $STACK
-Next.js · React · TypeScript · Node.js · MongoDB · Redis · Tailwind
-```
+<p align="center"> Full Stack Developer building web apps, SaaS products, and developer tools. Currently at Rapid Digital Growth. Based in Delhi, India.</p>
 
 ## Things I've built
 
